@@ -19,7 +19,7 @@ Ce projet implémente un système de communication client-serveur en **TCP** et 
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://github.com/Ismaelwn/TCP_UDP_Server.git
+   git clone https://github.com/Ismaelwn/RESEAU_CLIENT_SERVER.git
    ```
 2. **Compiler les fichiers** :
    ```bash
